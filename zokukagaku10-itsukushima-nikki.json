@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/itsukushima-nikki",
  "yomi": "いつくしまにっき",
  "category": "紀行",
- "description": null,
+ "description": {
+  "kind": "紀行",
+  "era": "文化8年（1811）5月",
+  "author": "熊谷直好（1782〜1862）",
+  "desc": "文化8年5月、友人と連れ立って安芸の厳島神社に詣でた旅の日記。道中の景色や田植えのさまを記し、歌をまじえる。宿の主人と歌を贈り答えたところで終わる。"
+ },
  "editions": [
   {
    "pid": "993388",
